@@ -1,2 +1,4 @@
 # code-ridge-python
-Code Ridge Python
+Welcome to Code Ridge Python!
+##Getting Started!
+
