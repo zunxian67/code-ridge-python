@@ -13,7 +13,7 @@
 ---
 ## 🏫 Prerequisites & Setup (At School)
 
-* **Sign up for a Code HS Account:** Sign up here [CodeHS](https://codehs.com/signup/individual/all_access).
+* **Sign up for a Code HS Account:** Sign up here [CodeHS](https://codehs.com/signup/student/EFC02).
 * Create a **PYTHON 3** Sandbox in the Sandbox Tab.
 ---
 
@@ -37,4 +37,4 @@
 ## 👨🏼‍🦲 Bosmia's Python Notes Website
 
 * **Bosmia's Website:** [Bosmia's Python AP CSP Notes](https://sites.google.com/g.gcpsk12.org/bosmia/csp/programming)
-* ↑ You need to log in using your GCPSK account to access this website ↑
+* ↑ You need to log in using your GCPS account to access this website ↑
