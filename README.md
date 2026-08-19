@@ -37,5 +37,5 @@
 graph TD
   A[Code Ridge Python] --> B{Are You Locked In?}
   B -->|Yes| C[Python Master!]
-  B -->|No| D[Bosmia Disappointment 😢]
+  B -->|No| D[Bosmia Disappointment]
 ```
