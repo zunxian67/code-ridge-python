@@ -20,7 +20,8 @@
 ## 🏡 Prerequisites & Setup (At Home)
 
 * **Python 3:** Download and install from [python.org](https://www.python.org/).
-* **IDE / Editor:** [VS Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), or Jupyter Notebook or Google Coolab.
+* **Alternative:** Download Python from the Microsoft Store!
+* **IDE / Editor:** [VS Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), or Jupyter Notebook or Google Collab.
 
 ---
 
@@ -33,9 +34,7 @@
 | **Day 03** | Operators | [View Day 03](./03_Day_Operators/readme.md) | ⏳ Pending |
 
 ---
-```mermaid
-graph TD
-  A[Code Ridge Python] --> B{Are You Locked In?}
-  B -->|Yes| C[Python Master!]
-  B -->|No| D[Bosmia Disappointment]
-```
+## 👨🏼‍🦲 Bosmia's Python Notes Website
+
+* **Bosmia's Website:** [Bosmia's Python AP CSP Notes](https://sites.google.com/g.gcpsk12.org/bosmia/csp/programming)
+* ↑ You need to log in using your GCPSK account to access this website ↑
