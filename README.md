@@ -13,7 +13,7 @@
 ---
 ## 🏫 Prerequisites & Setup (At School)
 
-* **Sign up for a Code HS Account:** Sign up here [CodeHS](https://codehs.com/signup/individual/free).
+* **Sign up for a Code HS Account:** Sign up here [CodeHS](https://codehs.com/signup/student/852D7).
 * Create a **PYTHON 3** Sandbox in the Sandbox Tab.
 <!-- Bosmia is creating a new Code Ridge Python Class for US with a new Code. So for now just create a new account. -->
 ---
