@@ -38,6 +38,6 @@ Modulus has the order of divison.
 print(3 // 2)  # Floor division operator(//)
 
 '''
-uhh look up what floor does
+Returns the quotient rounded down to the nearest whole number (3/2 = 1.5; 3//2 = 1).
 
 '''
