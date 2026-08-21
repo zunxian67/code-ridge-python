@@ -4,6 +4,20 @@
   <h1>🐍 Code Ridge Python 🐍</h1>
 
   <sub>Author: Zunxian and Tomi</a></sub>
+  <div align="center">
+
+  <a href="mailto:zunxian.kuang2247@g.gcpsk12.org">
+    <img src="https://img.shields.io/badge/Zunxian-Email-green?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="mailto:ayotomiwa.arowosegbe3147@g.gcpsk12.org">
+    <img src="https://img.shields.io/badge/Tomi-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+
+
 </div>
 
 ---
@@ -31,8 +45,8 @@
 | Day | Topic | Navigation | Status |
 | :---: | :--- | :--- | :---: |
 | **Day 01** | Introduction to Python | [View Day 01](./01_Day_Intro/readme.md) | 🟢 Complete |
-| **Day 02** | Variables & Built-in Functions | [View Day 02](./02_Day_Variables/readme.md) | 🟢 Complete |
-| **Day 03** | Operators | [View Day 03](./03_Day_Operators/readme.md) | ⏳ Pending |
+| **Day 02** | Placeholder | [View Day 02](./02_Day_Variables/readme.md) | ⏳ Pending |
+| **Day 03** | Placeholder | [View Day 03](./03_Day_Operators/readme.md) | ⏳ Pending |
 
 ---
 ## 👨🏼‍🦲 Bosmia's Python Notes Website
