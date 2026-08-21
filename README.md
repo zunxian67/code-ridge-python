@@ -44,7 +44,7 @@
 
 | Day | Topic | Navigation | Status |
 | :---: | :--- | :--- | :---: |
-| **Day 01** | Introduction to Python | [View Day 01](./01_Day_Intro/readme.md) | 🟢 Complete |
+| **Day 01** | Introduction to Python | [View Day 01](01_Day_Intro!) | 🟢 Complete |
 | **Day 02** | Placeholder | [View Day 02](./02_Day_Variables/readme.md) | ⏳ Pending |
 | **Day 03** | Placeholder | [View Day 03](./03_Day_Operators/readme.md) | ⏳ Pending |
 
